@@ -9,12 +9,12 @@
                 <div class="card-body p-0">
                     <!-- Nested Row within Card Body -->
                     <div class="row">
-                        <div class="col-lg-6 d-none d-lg-block bg-login-image">
+                        <div class="col-lg-6 d-none d-lg-block bg-background-image">
                             <div class="p-5">
                             <br>
                             <div class="judul">
                                 <center>
-                                    <img width="150px" src="<?= base_url() ?>assets/icon/books.png" alt="">
+                                    <img width="200px" src="<?= base_url() ?>assets/icon/buku1.png" alt="">
                                 </center>
                             </div>
                                 <br>
@@ -29,7 +29,7 @@
                                         <h1 class="h2 text-gray-800 mb-4"><b>SISTEM INFORMASI</b></h1>
                                     </div>
                                     <div class="text-center">
-                                        <h1 class="h3 text-gray-900 mb-4">PERPUSWEB</h1>
+                                        <h1 class="h3 text-gray-900 mb-4">PERPUSTAKAAN</h1>
                                     </div>
                                     <hr>
                                 </div>

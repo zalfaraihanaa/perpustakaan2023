@@ -29,7 +29,7 @@ function tgl_indo($tanggal){
     <!-- Page Heading -->
     <div class="d-sm-flex align-items-center justify-content-between mb-4">
         <h1 class="h3 mb-0 text-gray-800">Data Pengadaan</h1>
-        <a href="<?= base_url() ?>pengadaan/tambah" class="btn btn-sm btn-primary btn-icon-split">
+        <a href="<?= base_url() ?>pengadaan/tambah" class="btn btn-sm btn-secondary btn-icon-split">
             <span class="text text-white">Tambah Data</span>
             <span class="icon text-white-50">
                 <i class="fas fa-plus"></i>

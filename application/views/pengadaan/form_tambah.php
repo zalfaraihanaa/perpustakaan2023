@@ -15,7 +15,7 @@
                 <h1 class="h2 mb-0 text-gray-800">Tambah Pengadaan</h1>
             </div>
 
-            <button type="submit" class="btn btn-primary btn-md btn-icon-split">
+            <button type="submit" class="btn btn-secondary btn-md btn-icon-split">
                 <span class="text text-white">Simpan Data</span>
                 <span class="icon text-white-50">
                     <i class="fas fa-save"></i>
